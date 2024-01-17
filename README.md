@@ -1,2 +1,2 @@
 # JS-mini-projects.
-A bunch of mini js projects which I made while learning. 
+Link - https://arnavupadhyay7.github.io/JS-mini-projects./
